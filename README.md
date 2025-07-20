@@ -46,8 +46,8 @@
 
 <div align="center">
   <strong>🕒 Real-Time Clock</strong><br><br>
-  <img src="https://raw.githubusercontent.com/itsmewulf/markdown-live-clock/main/clock.svg" width="180" /><br>
-  <sub>Refresh the page to update the time (GitHub Markdown limitation)</sub>
+  ![Time Badge](https://img.shields.io/badge/time-EAT_11%3A08_PM-orange?style=flat-square&logo=clockify)
+ <sub>Refresh the page to update the time (GitHub Markdown limitation)</sub>
 </div>
 
 
