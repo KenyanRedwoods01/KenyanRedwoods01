@@ -5,11 +5,55 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/github/repo-size/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=gray" />
+  <img src="https://img.shields.io/github/languages/count/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/languages/top/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=purple" />
+  <img src="https://img.shields.io/github/issues/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/pull-requests/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/license/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=blue" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenyanRedwoods01&style=flat-square&color=orange" />
   <img src="https://img.shields.io/github/followers/KenyanRedwoods01?style=flat-square&color=blue" />
   <img src="https://img.shields.io/github/stars/KenyanRedwoods01?style=flat-square&color=brightgreen" />
   <img src="https://img.shields.io/badge/From-Kenya-%23f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Joined_in-2023-black?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/KenyanRedwoods01/redwoodskenyanwabot?style=flat-square&color=violet" />
 </p>
+<p align="center">
+  <a href="https://redwoodskenyandev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:redwoodkenyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/254769148939">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/RedwoodsKenyan">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/RedwoodsKenyan">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenyanRedwoods01&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=KenyanRedwoods01&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KenyanRedwoods01&theme=gruvbox&margin-w=5&no-frame=true" width="95%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-Cordova-35434F?style=flat-square&logo=apache-cordova&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made_with-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built_on-Vercel-black?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/Built_for-Africa-orange?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered_by_Mistral-purple?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
 
 ## 👨🏾‍💻 About Me
 
