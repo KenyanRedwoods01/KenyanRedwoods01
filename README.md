@@ -13,45 +13,43 @@
 
 ## 👨🏾‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <strong>👤 Name:</strong> <b><i>RedwoodKenyan</i></b><br>
-      <strong>💼 Role:</strong> Fullstack Developer · AI UI Engineer · Device Admin Expert<br><br>
+<div align="left">
 
-      <strong>🧠 Specialties:</strong>
-      <ul>
-        <li>⚡ Offline-first Mobile & Desktop Apps</li>
-        <li>💸 POS Systems & Wallet Banking Apps</li>
-        <li>📱 Cordova & WebView Android Systems</li>
-        <li>🧬 AI-Powered UI/UX & Auto Theming Engines</li>
-        <li>🔐 Advanced Android Device Admin & Root Access</li>
-        <li>🧪 STEM Learning Tools – Chemistry, Math, etc.</li>
-        <li>🛰️ Local Server + PWA + Offline Sync</li>
-        <li>📊 Dashboards, Analytics & Reporting</li>
-        <li>🤖 AI Chat Interfaces (Mistral, Codestral, GPT)</li>
-        <li>🧠 Prompt Engineering & Natural Language UI</li>
-        <li>🛠️ Multi-platform DevOps Automation</li>
-        <li>🌍 African Tech Innovation Solutions</li>
-      </ul><br>
+**👤 Name:** *RedwoodKenyan*  
+**💼 Role:** Fullstack Developer · AI UI Engineer · Device Admin Expert  
 
-      <strong>📍 Location:</strong> 🇰🇪 Kenya<br>
-      <strong>📧 Email:</strong> <a href="mailto:redwoodkenyan@gmail.com">redwoodkenyan@gmail.com</a><br>
-      <strong>📲 WhatsApp:</strong> <a href="https://wa.me/254769148939">+254 769 148 939</a><br>
-      <strong>🌐 Portfolio:</strong> <a href="https://redwoodskenyandev.vercel.app">redwoodskenyandev.vercel.app</a><br>
-      <strong>📁 GitHub:</strong> <a href="https://github.com/KenyanRedwoods01">github.com/KenyanRedwoods01</a><br><br>
+**🧠 Specialties:**  
+- ⚡ Offline-first Mobile & Desktop Apps  
+- 💸 POS Systems & Wallet Banking Apps  
+- 📱 Cordova & WebView Android Systems  
+- 🧬 AI-Powered UI/UX & Auto Theming Engines  
+- 🔐 Android Device Admin & Root Access  
+- 🧪 STEM Learning Tools – Chemistry, Math, etc.  
+- 🛰️ Local Server + PWA + Offline Sync  
+- 📊 Dashboards, Analytics & Reporting  
+- 🤖 AI Chat Interfaces (Mistral, Codestral, GPT)  
+- 🧠 Prompt Engineering & AI UI Builders  
+- 🛠️ Multi-platform DevOps Automation  
+- 🌍 African Tech Innovation Solutions  
 
-      <strong>📈 Mission:</strong> Empowering Africa through offline-first software and device-native solutions.<br>
-      <strong>🎯 Vision:</strong> To lead the future of hybrid development rooted in local environments, not clouds.
-    </td>
+**📍 Location:** 🇰🇪 Kenya  
+**📧 Email:** [redwoodkenyan@gmail.com](mailto:redwoodkenyan@gmail.com)  
+**📲 WhatsApp:** [+254 769 148 939](https://wa.me/254769148939)  
+**🌐 Portfolio:** [redwoodskenyandev.vercel.app](https://redwoodskenyandev.vercel.app)  
+**📁 GitHub:** [github.com/KenyanRedwoods01](https://github.com/KenyanRedwoods01)  
 
-    <td valign="top" width="40%" align="center">
-      <strong>🕒 Real-Time Clock</strong><br><br>
-      <img src="https://raw.githubusercontent.com/itsmewulf/markdown-live-clock/main/clock.svg" width="180" /><br><br>
-      <sub>This SVG clock updates on refresh (GitHub markdown limitation)</sub>
-    </td>
-  </tr>
-</table>
+**📈 Mission:** Empowering Africa through offline-first software and device-native solutions  
+**🎯 Vision:** To lead the future of hybrid development rooted in local environments, not clouds  
+</div>
+
+<br>
+
+<div align="center">
+  <strong>🕒 Real-Time Clock</strong><br><br>
+  <img src="https://raw.githubusercontent.com/itsmewulf/markdown-live-clock/main/clock.svg" width="180" /><br>
+  <sub>Refresh the page to update the time (GitHub Markdown limitation)</sub>
+</div>
+
 
 
 ## 📦 Projects
