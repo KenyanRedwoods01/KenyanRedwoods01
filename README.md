@@ -12,22 +12,46 @@
 </p>
 
 ---
-
 ## 👨🏾‍💻 About Me
 
-```yaml
-Name: RedwoodKenyan
-Role: Fullstack Developer
-Specialty:
-  - Offline-first Apps
-  - POS Systems
-  - Cordova + WebView Hybrids
-  - AI UI Systems
-Location: Kenya 🇰🇪
-Email: redwoodkenyan@gmail.com
-WhatsApp: +254769148939
-Portfolio: https://redwoodskenyandev.vercel.app
-```
+<table>
+  <tr>
+    <td><strong>👤 Name:</strong></td>
+    <td><b><i>RedwoodKenyan</i></b></td>
+  </tr>
+  <tr>
+    <td><strong>💼 Role:</strong></td>
+    <td>Fullstack Developer</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Specialties:</strong></td>
+    <td>
+      <ul>
+        <li>⚡ Offline-first Apps</li>
+        <li>💸 POS Systems</li>
+        <li>📱 Cordova + WebView Hybrids</li>
+        <li>🧬 AI UI Systems</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📍 Location:</strong></td>
+    <td>🇰🇪 Kenya</td>
+  </tr>
+  <tr>
+    <td><strong>📧 Email:</strong></td>
+    <td><a href="mailto:redwoodkenyan@gmail.com">redwoodkenyan@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>📲 WhatsApp:</strong></td>
+    <td><a href="https://wa.me/254769148939">+254769148939</a></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Portfolio:</strong></td>
+    <td><a href="https://redwoodskenyandev.vercel.app">redwoodskenyandev.vercel.app</a></td>
+  </tr>
+</table>
+
 
 ---
 
@@ -61,16 +85,15 @@ Portfolio: https://redwoodskenyandev.vercel.app
 `Git` `Linux` `Vercel` `Postman` `VS Code` `Figma` `Bash` `SQLite`
 
 ---
+## 📡 Contact Me
 
-## 📡 Contact Me (Interactive Card Style)
-
-```yaml
-🌐 Portfolio: https://redwoodskenyandev.vercel.app
-📧 Email: redwoodkenyan@gmail.com
-📲 WhatsApp: https://wa.me/254769148939
-🐦 Twitter: https://twitter.com/RedwoodsKenyan
-📡 Telegram: https://t.me/RedwoodsKenyan
-```
+<p align="center">
+  <a href="https://redwoodskenyandev.vercel.app"><strong>🌐 Portfolio</strong></a> &nbsp;|&nbsp;
+  <a href="mailto:redwoodkenyan@gmail.com"><strong>📧 Email</strong></a> &nbsp;|&nbsp;
+  <a href="https://wa.me/254769148939"><strong>📲 WhatsApp</strong></a> &nbsp;|&nbsp;
+  <a href="https://twitter.com/RedwoodsKenyan"><strong>🐦 Twitter</strong></a> &nbsp;|&nbsp;
+  <a href="https://t.me/RedwoodsKenyan"><strong>📡 Telegram</strong></a>
+</p>
 
 ---
 
