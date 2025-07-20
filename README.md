@@ -162,11 +162,27 @@
 ## 📡 Contact Me
 
 <p align="center">
-  <a href="https://redwoodskenyandev.vercel.app"><strong>🌐 Portfolio</strong></a> &nbsp;|&nbsp;
-  <a href="mailto:redwoodkenyan@gmail.com"><strong>📧 Email</strong></a> &nbsp;|&nbsp;
-  <a href="https://wa.me/254769148939"><strong>📲 WhatsApp</strong></a> &nbsp;|&nbsp;
-  <a href="https://twitter.com/RedwoodsKenyan"><strong>🐦 Twitter</strong></a> &nbsp;|&nbsp;
-  <a href="https://t.me/RedwoodsKenyan"><strong>📡 Telegram</strong></a>
+
+  <a href="https://redwoodskenyandev.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-redwoodskenyandev.vercel.app-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:redwoodkenyan@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-redwoodkenyan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/254769148939">
+    <img src="https://img.shields.io/badge/📲 WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/RedwoodsKenyan">
+    <img src="https://img.shields.io/badge/🐦 Twitter-@RedwoodsKenyan-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/RedwoodsKenyan">
+    <img src="https://img.shields.io/badge/📡 Telegram-Join-blue?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+
 </p>
 
 ---
