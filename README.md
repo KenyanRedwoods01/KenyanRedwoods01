@@ -11,49 +11,48 @@
   <img src="https://img.shields.io/badge/From-Kenya-%23f97316?style=flat-square" />
 </p>
 
----
 ## 👨🏾‍💻 About Me
 
 <table>
   <tr>
-    <td><strong>👤 Name:</strong></td>
-    <td><b><i>RedwoodKenyan</i></b></td>
-  </tr>
-  <tr>
-    <td><strong>💼 Role:</strong></td>
-    <td>Fullstack Developer</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Specialties:</strong></td>
-    <td>
+    <td valign="top" width="60%">
+      <strong>👤 Name:</strong> <b><i>RedwoodKenyan</i></b><br>
+      <strong>💼 Role:</strong> Fullstack Developer · AI UI Engineer · Device Admin Expert<br><br>
+
+      <strong>🧠 Specialties:</strong>
       <ul>
-        <li>⚡ Offline-first Apps</li>
-        <li>💸 POS Systems</li>
-        <li>📱 Cordova + WebView Hybrids</li>
-        <li>🧬 AI UI Systems</li>
-      </ul>
+        <li>⚡ Offline-first Mobile & Desktop Apps</li>
+        <li>💸 POS Systems & Wallet Banking Apps</li>
+        <li>📱 Cordova & WebView Android Systems</li>
+        <li>🧬 AI-Powered UI/UX & Auto Theming Engines</li>
+        <li>🔐 Advanced Android Device Admin & Root Access</li>
+        <li>🧪 STEM Learning Tools – Chemistry, Math, etc.</li>
+        <li>🛰️ Local Server + PWA + Offline Sync</li>
+        <li>📊 Dashboards, Analytics & Reporting</li>
+        <li>🤖 AI Chat Interfaces (Mistral, Codestral, GPT)</li>
+        <li>🧠 Prompt Engineering & Natural Language UI</li>
+        <li>🛠️ Multi-platform DevOps Automation</li>
+        <li>🌍 African Tech Innovation Solutions</li>
+      </ul><br>
+
+      <strong>📍 Location:</strong> 🇰🇪 Kenya<br>
+      <strong>📧 Email:</strong> <a href="mailto:redwoodkenyan@gmail.com">redwoodkenyan@gmail.com</a><br>
+      <strong>📲 WhatsApp:</strong> <a href="https://wa.me/254769148939">+254 769 148 939</a><br>
+      <strong>🌐 Portfolio:</strong> <a href="https://redwoodskenyandev.vercel.app">redwoodskenyandev.vercel.app</a><br>
+      <strong>📁 GitHub:</strong> <a href="https://github.com/KenyanRedwoods01">github.com/KenyanRedwoods01</a><br><br>
+
+      <strong>📈 Mission:</strong> Empowering Africa through offline-first software and device-native solutions.<br>
+      <strong>🎯 Vision:</strong> To lead the future of hybrid development rooted in local environments, not clouds.
     </td>
-  </tr>
-  <tr>
-    <td><strong>📍 Location:</strong></td>
-    <td>🇰🇪 Kenya</td>
-  </tr>
-  <tr>
-    <td><strong>📧 Email:</strong></td>
-    <td><a href="mailto:redwoodkenyan@gmail.com">redwoodkenyan@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>📲 WhatsApp:</strong></td>
-    <td><a href="https://wa.me/254769148939">+254769148939</a></td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Portfolio:</strong></td>
-    <td><a href="https://redwoodskenyandev.vercel.app">redwoodskenyandev.vercel.app</a></td>
+
+    <td valign="top" width="40%" align="center">
+      <strong>🕒 Real-Time Clock</strong><br><br>
+      <img src="https://raw.githubusercontent.com/itsmewulf/markdown-live-clock/main/clock.svg" width="180" /><br><br>
+      <sub>This SVG clock updates on refresh (GitHub markdown limitation)</sub>
+    </td>
   </tr>
 </table>
 
-
----
 
 ## 📦 Projects
 
