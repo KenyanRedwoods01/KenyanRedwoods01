@@ -45,9 +45,11 @@
 <br>
 
 <div align="center">
-  <strong>🕒 Real-Time Clock</strong><br><br>
-  ![Time Badge](https://img.shields.io/badge/time-EAT_11%3A08_PM-orange?style=flat-square&logo=clockify)
- <sub>Refresh the page to update the time (GitHub Markdown limitation)</sub>
+  ## 🕒 Real-Time Clock
+
+![Time Badge](https://img.shields.io/badge/time-EAT_11%3A08_PM-orange?style=flat-square&logo=clockify)  
+<sub><i>Refresh the page to update the time (GitHub Markdown limitation)</i></sub>
+
 </div>
 
 
