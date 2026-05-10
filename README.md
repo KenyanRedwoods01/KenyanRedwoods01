@@ -23,21 +23,25 @@ Fullstack engineer based in Kenya 🇰🇪, specializing in device-native mobile
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KenyanRedwoods01/KenyanRedwoods01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KenyanRedwoods01/KenyanRedwoods01/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/KenyanRedwoods01/KenyanRedwoods01/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KenyanRedwoods01&theme=tokyonight&hide_border=true" width="55%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KenyanRedwoods01&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KenyanRedwoods01&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit+Activity" width="95%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=KenyanRedwoods01&theme=tokyonight&no-frame=true&margin-w=6&column=7" width="95%" />
 
